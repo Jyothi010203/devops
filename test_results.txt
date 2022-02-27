@@ -1,0 +1,2 @@
+my test results
+pass percentage=100
